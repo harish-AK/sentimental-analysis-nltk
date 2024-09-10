@@ -27,6 +27,8 @@ Random Forest Classifier
 ### 5. Evaluation Metrics:
 Models are evaluated using metrics like accuracy, confusion matrix, and classification report (precision, recall, f1-score).
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Sentimental analysis on tweets based on tweets about 2019 election - [here](https://github.com/harish-AK/sentimental-analysis-nltk/blob/main/modi%20vs%20rahul.ipynb)
 ### Data Cleaning and Preprocessing:
 
