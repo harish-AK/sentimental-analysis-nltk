@@ -29,7 +29,7 @@ Models are evaluated using metrics like accuracy, confusion matrix, and classifi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Sentimental analysis on tweets based on tweets about 2019 election - [here](https://github.com/harish-AK/sentimental-analysis-nltk/blob/main/modi%20vs%20rahul.ipynb)
+## Sentimental analysis on tweets based on tweets about 2019 Indian election - [here](https://github.com/harish-AK/sentimental-analysis-nltk/blob/main/modi%20vs%20rahul.ipynb)
 ### Data Cleaning and Preprocessing:
 
 The notebook likely handles tweet data cleaning by removing unnecessary elements (e.g., URLs, special characters), typical in text-based machine learning tasks.
